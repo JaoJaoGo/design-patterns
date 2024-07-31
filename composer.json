@@ -1,0 +1,15 @@
+{
+    "name": "jaojaogo/design-patterns",
+    "description": "Padrões de projeto com PHP",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core"
+        }
+    },
+    "authors": [
+        {
+            "name": "João Víctor Guedes Carrijo"
+        }
+    ],
+    "require": {}
+}
